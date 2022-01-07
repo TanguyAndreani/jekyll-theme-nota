@@ -4,21 +4,19 @@ Welcome to your new Jekyll theme! In this directory, you'll find the files you n
 
 To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
 
-TODO: Delete this and the text above, and describe your gem
-
 
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "nota"
+gem "jekyll-theme-nota"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: nota
+theme: jekyll-theme-nota
 ```
 
 And then execute:
@@ -27,7 +25,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install nota
+    $ gem install jekyll-theme-nota
 
 ## Usage
 
@@ -35,7 +33,7 @@ TODO: Write usage instructions here. Describe your available layouts, includes, 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/hello. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/TanguyAndreani/jekyll-theme-nota.
 
 ## Development
 
